@@ -1,0 +1,459 @@
+@media(max-width: 1500px){
+  
+    .header-c2{
+        width: 80%;
+      }
+      .bule-circle {
+        width: 220px;
+        height: 220px;
+    }
+    .coolect-box{
+        width: 22%;
+    }
+    .collect-c {
+        margin-top: 130px;
+    }
+    .coolect-box{
+        height: 210px;
+    }
+}
+@media(max-width: 1440px){
+    .bule-circle{
+        left: 14px;
+    }
+    .header-c2{
+        width: 70%;
+      }
+    .menu-list-d > li > a{
+        margin-left: 15px;
+    }
+    .logo-box > a > img {
+        width: 260px;
+    }
+    .menu-list-d{
+        padding: 10px 50px 10px 0px;
+    }
+    .marketplace-bg{
+        padding: 60px 0 60px;
+    }
+}
+@media(max-width: 1166px){
+    .bule-circle {
+        left: -8px;
+    }
+    .header-c2{
+        width: auto;
+    }
+    .logo-box > a > img {
+        width: 185px;
+    }
+    #play-to-earn{
+        background-position: center;
+    }
+    .line-img > img {
+        margin-left: -20px;
+    }
+    .video-join-box{
+        margin-top: 50px;
+    }
+
+    .social-list > li > a {
+        width: 80px;
+        height: 80px;
+        line-height: 80px;
+    }
+    .toggle-slide-right {
+        display: block;
+    }
+    .burger-area {
+        display: block;
+    }
+    .menu-list-d{
+        display: none;
+    }
+    
+    
+}
+@media(max-width: 992px){
+    .marketplace-bg{
+        padding: 50px 0px 60px 0px;
+    }
+    #bg-pay{
+        background-size: cover;
+        padding: 85px 0px 60px 0px;
+    }
+    .menu-list2{
+        padding-top: 40px;
+    }
+    #play-to-earn{
+        height: 54vh;
+    }
+    .menu-list2 > li > a{
+    padding: 15px 20px;
+    color: white;
+    text-align: center;
+    width: 180px;
+    border: 2px solid #fff;
+    background-color: rgb(255 193 0 / 0%);
+    border-top-left-radius: 30px;
+    border-top-right-radius: 5px;
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 30px;
+    /* for Mozila version less than 3.6  */
+    -moz-border-radius-topleft: 30px;
+    -moz-border-radius-topright: 5px;
+    -moz-border-radius-bottomleft: 5px;
+    -moz-border-radius-bottomright: 30px;
+  
+  /* Shadow */
+  box-shadow: 1px 1px 5px 0 rgba(69,69,69,0.5);
+    }
+    .logo-box > a > img{
+        width: 190px;
+    }
+    .wrp-collect-box {
+        display: inherit;
+    }
+    .banner-content > h3{
+        font-size: 36px;
+    }
+    .coolect-box {
+        width: 50%;
+        margin: auto;
+        margin-top: 140px;
+    }
+    .bule-circle{
+        left: 60px;
+    }
+    .bimbo-head > h3 > br{
+        display: none;
+    }
+    .bimbo-head {
+        margin: 0px;
+        text-align: center;
+    }
+    #banner-sec{
+        padding-top: 100px;
+        height: 85vh;
+        background-size: cover;
+        background-position: center;
+    }
+    .banner-btn-wrp {
+        margin-top: 300px;
+    }
+    .line-img{
+        display: none;
+    }
+    .android-btn > a{
+        display: block;
+    }
+    .download-c-wrp{
+        justify-content: center;
+    }
+    .collect-head{
+        padding-bottom: 0px;
+    }
+   .header-c3{
+       display: none;
+   }
+   .burgers > img {
+        width: 30px;
+        margin-top: -3px;
+    }
+   
+    
+    h3{
+        font-size: 36px;
+    }
+    .war-box{
+        margin-top: 30px;
+    }
+    .war-head {
+        margin-bottom: 10px;
+    }
+    #moba-section {
+        padding: 60px 0px 60px 0px;
+    }
+    #bimbo-section{
+        padding: 60px 0px 60px 0px;
+        margin-top: 0px;
+        background-size: cover;
+    }
+    .bimbo-box{
+        margin-top: 30px;
+    }
+    .wrp-earn-box{
+        width: 100%;
+        margin-top: 25px;
+    }
+    .mrt-earn-box{
+        margin-top: 0px;
+    }
+    .mrl-earn-box{
+        margin-left: 0px;
+    }
+    .bin1-img > img{
+        margin-left: 0px;
+    }
+    .earn-head > p{
+        margin: 20px 0px;
+    }
+    #play-to-earn{
+        background-size: cover;
+    }
+    .content{
+        margin-top: 30px;
+    }
+    .head-tokens {
+        margin-bottom: 10px;
+    }
+    #start-section{
+        background-size: cover;
+    }
+    .start-box{
+        margin-top: 20px;
+    }
+    .start-head{
+        margin-bottom: 20px;
+    }
+    .join-box > h3{
+        font-size: 28px;
+    }
+    .footer-content{
+        text-align: center;
+    }
+    .social-list{
+        justify-content: center;
+        margin-top: 30px;
+    }
+    .social-list > li:first-child{
+        margin-left: 0px;
+    }
+    .social-list > li{
+        margin-left: 20px;
+    }
+    .ethapp {
+        padding: 6px 15px;
+        width: 135px;
+        margin-top: 13px! important;
+    }
+    
+}
+@media(max-width: 767px){
+    #play-to-earn{
+        height: 100vh;
+    }
+    .banner-btn-wrp {
+        margin-top: 100px;
+    }
+    .coolect-box{
+        width: 100%;
+    }
+    .bule-circle {
+        left: 29%;
+    }
+    #collect-section {
+        padding-top: 45px;
+    }
+    #roadmap-section {
+        padding: 30px 0px 35px 0px;
+    }
+    #download-sec,.main-bg,#moba-section,#bimbo-section,#play-to-earn,#token-section,#start-section{
+        padding: 45px 0px;
+    }
+    .download-c{
+        text-align: center;
+    }
+    .main-bg{
+        background-size: cover;
+    }
+    .earn-btn{
+        border: 3px solid #f38688! important;
+        color: #f38688! important;
+    }
+
+}
+@media(max-width: 640px){
+    #marketplace-sec {
+        padding-top: 40px;
+    }
+    #bg-pay {
+        background-size: cover;
+        padding: 60px 0px 60px 0px;
+    }
+    .border-b {
+        padding: 0px;
+        top: 10px;
+    }
+
+    .token-d{
+        display: none;
+    }
+    .token-m{
+        display: block;
+    }
+    .start-head {
+        margin-bottom: 5px;
+    }
+    .join-box > h3{
+        font-size: 20px;
+    }
+    .start-btn{
+        margin-top: 30px;
+    }
+    .footer-content > p{
+        font-size: 14px;
+    }
+    .footer-content > p > br{
+        display: none;
+    }
+    .white-stoke{
+        margin: 20px 0px;
+    }
+
+    .join-box > h3 > br{
+        display: none;
+    }
+    .start-box > h3{
+        font-size: 20px;
+    }
+    .start-box > p{
+        font-size: 15px;
+    }
+    .head-moba {
+        margin-bottom: 20px;
+    }
+    .coolect-box{
+        margin-top: 125px;
+    }
+    .collect-c > h4{
+        font-size: 20px;
+    }
+    .war-head {
+        margin-bottom: 0px;
+    }
+    .video-join-box {
+        margin-top: 30px;
+    }
+    h3 {
+        font-size: 24px;
+    }
+    .burgers > img {
+        width: 24px;
+        margin-top: -3px;
+    }
+    .bule-circle {
+        left: 29%;
+    }
+    .border-b{
+        border: none;
+    }
+    .banner-content > h3{
+        font-size: 26px;
+    }
+    .banner-content > h3 > br{
+        display: none;
+    }
+    #banner-sec{
+        height: 100vh;
+        background-position: bottom;
+        padding-top: 85px;
+    }
+    .banner-content > p > br{
+        display: none;
+    }
+    .banner-content > p{
+        font-size: 16px;
+    }
+    .social-list > li > a {
+        width: 40px;
+        height: 40px;
+        line-height: 40px;
+    }
+    .social-list > li > a > img{
+        width: 18px;
+    }
+    .eroll-box{
+        margin-top: 10px;
+    }
+    .coolect-box{
+        height: auto;
+    }
+    .earn-head > p{
+        font-size: 14px;
+        margin: 15px 0px 10px 0px;
+    }
+    .earn-head > p > br{
+        display: none;
+    }
+
+    .earn-box{
+        display: inherit;
+        text-align: center;
+    }
+    .bin1-img > img{
+        width: 120px;
+    }
+    .bin1-content{
+        margin-top: 20px;
+    }
+    .bin1-content > p{
+        font-size: 14px;
+    }
+    .logo-box > a > img{
+        width: 140px;
+        margin-top: 0px;
+    }
+    .menu-list2 > li > a{
+        font-size: 16px;
+    }
+    
+}
+@media(max-width: 480px){
+    .bule-circle > img {
+        margin-top: 65px;
+    }
+    .bule-circle {
+        left: 21%;
+    }
+    #play-to-earn{
+        height: 46vh;
+    }
+    #banner-sec{
+        height: 65vh;
+    }
+    .banner-btn-wrp > a{
+        width: 130px;
+        font-size: 14px;
+    }
+    .btn-bimbo > a{
+        font-size: 14px;
+    }
+    .banner-btn-wrp {
+        margin-top: 200px;
+    }
+}
+@media(max-width: 380px){
+    .bule-circle {
+        left: 18%;
+    }
+}
+@media(max-width: 360px){
+    .bule-circle {
+        left: 17%;
+    }
+}
+@media(max-width: 320px){
+    .banner-content > p > br{
+        display: none;
+    }
+    .banner-content > h3{
+        font-size: 24px;
+    }
+    #banner-sec {
+        height: 80vh;
+    }
+}
+
+
+
